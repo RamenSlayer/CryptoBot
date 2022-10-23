@@ -1,0 +1,4 @@
+pyTelegramBotAPI:
+pip install pyTelegramBotAPI
+If doesn't work use:
+https://stackoverflow.com/questions/64951712/telebot-object-has-no-attribute-message-handler
